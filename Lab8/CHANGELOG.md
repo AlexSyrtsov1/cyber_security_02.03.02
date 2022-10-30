@@ -10,6 +10,7 @@ Initial release.
 - report.md
 - presentation.md
 - coder.jl
+- documentation
 
 **New:**
 Программа работает в интерактивном режиме
