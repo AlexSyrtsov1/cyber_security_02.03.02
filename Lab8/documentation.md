@@ -51,7 +51,7 @@ $ julia coder.jl -i
 >> 15634 25438 ...
 >> :end
 ...
->> message I do not want to encrypt
+>> message I have no need to encrypt
 >> :
 >> message I want to encrypt
 >> :end
